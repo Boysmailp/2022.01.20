@@ -1,0 +1,25 @@
+.p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.b{
+    border: 1px solid red
+}
+
+.mp{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bgz{
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+
+.bgk{
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
