@@ -14,12 +14,13 @@
 
 .bgz{
     background-color: green;
-    text-align: center;
-    color: white;
 }
 
 .bgk{
     background-color: blue;
+}
+
+.betu{
     text-align: center;
     color: white;
 }
